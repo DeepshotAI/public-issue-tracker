@@ -1,4 +1,4 @@
-# deepshot.ai Public Issue Tracker
+# Deepshot Public Issue Tracker
 
 Welcome to the deepshot.ai Public Issue Tracker!
 
